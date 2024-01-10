@@ -2,7 +2,7 @@
 
 ## 💻 Projeto
 
-Projeto desenvolvido como desafio da trilha Explorer da Rocketseat. A aplicação permite favoritar usuários do Github e removê-los da lista. Para a coleta de dados dos usuários utilizou-se a API do Github. Temos abordados no desafio:
+Projeto desenvolvido como desafio da trilha Explorer da Rocketseat. A aplicação permite favoritar usuários do Github e removê-los da lista. Para a coleta de dados dos usuários utilizou-se a API do Github. Temas abordados no desafio:
 
 - Consumo de API's
 - Programação orientada a objetos (POO)
